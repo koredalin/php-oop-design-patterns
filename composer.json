@@ -1,0 +1,16 @@
+{
+    "name": "php-oop-design-patterns/php-oop-design-patterns",
+	"description": "OOP Design Patterns",
+    "type": "demo",
+    "authors": [
+        {
+            "name": "Hristo Hristov",
+            "email": "koredalin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "OOPPatterns\\": "src/"
+        }
+    }
+}
